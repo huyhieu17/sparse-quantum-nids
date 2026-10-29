@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "timing_rows": 288,
+  "jobs": 144,
+  "repetitions": 3,
+  "identical_predictions_across_repetitions": true
+}

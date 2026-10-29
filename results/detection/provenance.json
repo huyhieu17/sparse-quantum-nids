@@ -1,0 +1,43 @@
+{
+  "python": "3.11.16 (main, Sep  2 2026, 23:39:52) [GCC 15.3.0]",
+  "platform": "Linux-6.8.0-138-generic-x86_64-with-glibc2.35",
+  "packages": {
+    "numpy": "1.26.4",
+    "scipy": "1.13.1",
+    "pandas": "2.2.3",
+    "scikit-learn": "1.9.0",
+    "qiskit": "1.2.4",
+    "qiskit-aer": "0.14.0.1"
+  },
+  "snapshots": {
+    "device_snapshots/nairobi/conf_nairobi.json": "744b70045055b06e85624a9bf6b7e7ea435ca408d2d09764a52c182981b3fe2a",
+    "device_snapshots/nairobi/props_nairobi.json": "92fc39e0c04e994d282e7494f7cc380d1a62907c00c3494a4fcae22c91f3fa75",
+    "device_snapshots/lagos/props_lagos.json": "55514b9331e1df2f06ac3f7494c112e3ea0c90a333f9363f47f62b4be13d8f66",
+    "device_snapshots/lagos/conf_lagos.json": "94f6becf0d32d7caf5ca0eaed770123af80555a7e465af57fade6a2f36e9c718",
+    "device_snapshots/perth/props_perth.json": "b4a382621fc454dd57ee17e2e0c9336fbd757777c752775fb4db90d43fcf89c8",
+    "device_snapshots/perth/conf_perth.json": "c8e57d759f162a66e36b628c4ce4bae086a99e3dd335c92249ed20b4f8118c5a"
+  },
+  "code": {
+    "revision_v11/z7.py": "649e1a477cebcd8f19b2214d873426ff5857432bdebab62ad5002115a20769bb",
+    "revision_v11/cost_profile.py": "71e05926d90e3a05793cf38f3ba75d778f4aafd3c764affaed6b8df5c16f0a8f",
+    "revision_v11/calibration_control.py": "691fa2c05aa15442b38759fe6957879783f8856482bb56a60478d11fcab8ad87",
+    "revision_v11/fidelity_engine.py": "47daa753ee833ef71c8fac814956b5e86ed15f477d28b4bff0ca0cda7451a13c",
+    "revision_v11/report.py": "17a70c47682febf473e108cd984982eb4c41f359206a52d2b5793d45003fcb2f",
+    "revision_v11/fidelity.py": "1a9528698e293b9465af5ab19eeaad59182d051893a59b1605c459c92297fc87",
+    "revision_v11/run.py": "682a58a7b240b61effeded9f3afcc8d6d3dce76b5f843b7da5f131040a2c74e5",
+    "revision_v11/finalize.py": "e23697a94a3795838d4ce77e78698f39653b18c5286e521e2adff8b63be7d85a",
+    "revision_v11/quantum.py": "57204c2b5816f20e1694512f270c5c976b464d257397478be04fe45bffbd58e4",
+    "revision_v11/validate.py": "9e5ccb6a8fa9327d45714faf9d8de122a2da0e4ca0e6243cc20975bc820326cd",
+    "revision_v11/evaluate.py": "c13ddab399bd9c9d491838c089acf4b06a8a6c2bc8c9c9ec09340baa4bd4498b",
+    "revision_v11/provenance.py": "dc5e932018f74c3d7e956f0c17888636cbb864af617eafbb03a43ef97e30447b",
+    "revision_v11/prepare.py": "429c33e615a1a73d1f056954e49fc292a2f1bcb6c2799c10604800ca245df4f6",
+    "revision_v11/learn.py": "f195b0cd6c5c79e3a3e880ad26930b9dff069d8705a8cff0cb3a36bf87c07456"
+  },
+  "prepared_data": {
+    "results_noise_aware_v11/UNSW-NB15/data.npz": "04ca7d25ad8aa95b884c73e4cb8a8dc749ee429ffff8779428f319e9ae0db135",
+    "results_noise_aware_v11/NSL-KDD/data.npz": "252d78a4fb658a24a93ca872091360015434ed0efe68f4e5580ee4bba4337556",
+    "results_noise_aware_v11/ToN-IoT/data.npz": "762d2bccb2fbd0a84c7f17bb26afc6f029440622dfb233f116880cbe91e5c014",
+    "results_noise_aware_v11/RT-IoT/data.npz": "46d42cc4ad8744061491ef7c66b84b50a29c19df5f92ae6ecaaf12c6a8caee03"
+  },
+  "protocol_sha256": "be5f813f83a9f4a7f84d72a19cec3eaa606443878c8a53b9e85aedd00c674826"
+}

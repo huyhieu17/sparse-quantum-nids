@@ -1,0 +1,248 @@
+[
+  {
+    "dataset": "ToN-IoT",
+    "config": "dense",
+    "train_index": 0,
+    "source_row_id": 252,
+    "nonzero_amplitudes": 32,
+    "physical_wires": 5,
+    "active_prep_qubits": 5,
+    "fixed_bits": {},
+    "cx": 26,
+    "depth": 100,
+    "gate_counts": {
+      "rz": 51,
+      "cx": 26,
+      "ry": 25,
+      "rx": 8
+    },
+    "state_preparation_fidelity": 1.0000000000000004,
+    "dense_sparse_state_fidelity": 1.0000000000000004
+  },
+  {
+    "dataset": "ToN-IoT",
+    "config": "adaptive16",
+    "train_index": 0,
+    "source_row_id": 252,
+    "nonzero_amplitudes": 16,
+    "physical_wires": 5,
+    "active_prep_qubits": 4,
+    "fixed_bits": {
+      "2": 0
+    },
+    "cx": 11,
+    "depth": 35,
+    "gate_counts": {
+      "rz": 15,
+      "rx": 12,
+      "cx": 11,
+      "ry": 3
+    },
+    "state_preparation_fidelity": 0.9999999999999998,
+    "dense_sparse_state_fidelity": 0.642206799120482
+  },
+  {
+    "dataset": "ToN-IoT",
+    "config": "adaptive8",
+    "train_index": 0,
+    "source_row_id": 252,
+    "nonzero_amplitudes": 8,
+    "physical_wires": 5,
+    "active_prep_qubits": 5,
+    "fixed_bits": {},
+    "cx": 26,
+    "depth": 102,
+    "gate_counts": {
+      "rz": 53,
+      "ry": 29,
+      "cx": 26,
+      "rx": 5
+    },
+    "state_preparation_fidelity": 0.9999999999999996,
+    "dense_sparse_state_fidelity": 0.6412729353221706
+  },
+  {
+    "dataset": "RT-IoT",
+    "config": "dense",
+    "train_index": 0,
+    "source_row_id": 37,
+    "nonzero_amplitudes": 32,
+    "physical_wires": 5,
+    "active_prep_qubits": 5,
+    "fixed_bits": {},
+    "cx": 26,
+    "depth": 95,
+    "gate_counts": {
+      "rz": 45,
+      "cx": 26,
+      "ry": 23,
+      "rx": 10
+    },
+    "state_preparation_fidelity": 1.0000000000000009,
+    "dense_sparse_state_fidelity": 1.0
+  },
+  {
+    "dataset": "RT-IoT",
+    "config": "adaptive16",
+    "train_index": 0,
+    "source_row_id": 37,
+    "nonzero_amplitudes": 16,
+    "physical_wires": 5,
+    "active_prep_qubits": 5,
+    "fixed_bits": {},
+    "cx": 26,
+    "depth": 102,
+    "gate_counts": {
+      "rz": 52,
+      "ry": 29,
+      "cx": 26,
+      "rx": 5
+    },
+    "state_preparation_fidelity": 1.0,
+    "dense_sparse_state_fidelity": 0.9118777422338878
+  },
+  {
+    "dataset": "RT-IoT",
+    "config": "adaptive8",
+    "train_index": 0,
+    "source_row_id": 37,
+    "nonzero_amplitudes": 8,
+    "physical_wires": 5,
+    "active_prep_qubits": 5,
+    "fixed_bits": {},
+    "cx": 26,
+    "depth": 89,
+    "gate_counts": {
+      "rz": 38,
+      "cx": 26,
+      "ry": 17,
+      "rx": 17
+    },
+    "state_preparation_fidelity": 0.9999999999999991,
+    "dense_sparse_state_fidelity": 0.7061506638263101
+  },
+  {
+    "dataset": "NSL-KDD",
+    "config": "dense",
+    "train_index": 0,
+    "source_row_id": 23,
+    "nonzero_amplitudes": 32,
+    "physical_wires": 5,
+    "active_prep_qubits": 5,
+    "fixed_bits": {},
+    "cx": 26,
+    "depth": 101,
+    "gate_counts": {
+      "rz": 51,
+      "ry": 27,
+      "cx": 26,
+      "rx": 7
+    },
+    "state_preparation_fidelity": 0.9999999999999991,
+    "dense_sparse_state_fidelity": 1.0
+  },
+  {
+    "dataset": "NSL-KDD",
+    "config": "adaptive16",
+    "train_index": 0,
+    "source_row_id": 23,
+    "nonzero_amplitudes": 16,
+    "physical_wires": 5,
+    "active_prep_qubits": 4,
+    "fixed_bits": {
+      "4": 0
+    },
+    "cx": 11,
+    "depth": 35,
+    "gate_counts": {
+      "rz": 15,
+      "rx": 12,
+      "cx": 11,
+      "ry": 3
+    },
+    "state_preparation_fidelity": 0.9999999999999991,
+    "dense_sparse_state_fidelity": 0.6591437633841539
+  },
+  {
+    "dataset": "NSL-KDD",
+    "config": "adaptive8",
+    "train_index": 0,
+    "source_row_id": 23,
+    "nonzero_amplitudes": 8,
+    "physical_wires": 5,
+    "active_prep_qubits": 3,
+    "fixed_bits": {
+      "2": 1,
+      "4": 0
+    },
+    "cx": 4,
+    "depth": 14,
+    "gate_counts": {
+      "rx": 7,
+      "rz": 7,
+      "cx": 4,
+      "ry": 1
+    },
+    "state_preparation_fidelity": 1.0,
+    "dense_sparse_state_fidelity": 0.4473587380568181
+  },
+  {
+    "dataset": "UNSW-NB15",
+    "config": "dense",
+    "train_index": 0,
+    "source_row_id": 105,
+    "nonzero_amplitudes": 32,
+    "physical_wires": 5,
+    "active_prep_qubits": 5,
+    "fixed_bits": {},
+    "cx": 26,
+    "depth": 99,
+    "gate_counts": {
+      "rz": 50,
+      "ry": 29,
+      "cx": 26,
+      "rx": 4
+    },
+    "state_preparation_fidelity": 1.0000000000000009,
+    "dense_sparse_state_fidelity": 1.0
+  },
+  {
+    "dataset": "UNSW-NB15",
+    "config": "adaptive16",
+    "train_index": 0,
+    "source_row_id": 105,
+    "nonzero_amplitudes": 16,
+    "physical_wires": 5,
+    "active_prep_qubits": 5,
+    "fixed_bits": {},
+    "cx": 26,
+    "depth": 99,
+    "gate_counts": {
+      "rz": 49,
+      "cx": 26,
+      "ry": 25,
+      "rx": 9
+    },
+    "state_preparation_fidelity": 0.9999999999999996,
+    "dense_sparse_state_fidelity": 0.9360997975785612
+  },
+  {
+    "dataset": "UNSW-NB15",
+    "config": "adaptive8",
+    "train_index": 0,
+    "source_row_id": 105,
+    "nonzero_amplitudes": 8,
+    "physical_wires": 5,
+    "active_prep_qubits": 5,
+    "fixed_bits": {},
+    "cx": 26,
+    "depth": 107,
+    "gate_counts": {
+      "rz": 61,
+      "ry": 31,
+      "cx": 26
+    },
+    "state_preparation_fidelity": 1.0000000000000009,
+    "dense_sparse_state_fidelity": 0.6961901734487818
+  }
+]

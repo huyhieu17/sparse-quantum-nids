@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "metrics": 2240,
+  "predictions_verified": 2240000,
+  "fidelity_probability_batches": 8400,
+  "model_freeze_precedes_test_predictions": true,
+  "rows_by_family": {
+    "projected_and_classical": 1744,
+    "fidelity_nystrom": 224,
+    "z7": 224,
+    "threshold_control": 48
+  },
+  "transformed_duplicate_test_rows": {
+    "ToN-IoT": 0,
+    "RT-IoT": 0,
+    "NSL-KDD": 0,
+    "UNSW-NB15": 3
+  },
+  "tests": "6 numerical tests passed; see revision_v11/tests.log"
+}

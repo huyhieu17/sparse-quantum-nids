@@ -1,0 +1,16 @@
+{
+  "platform": "Linux-6.8.0-138-generic-x86_64-with-glibc2.35",
+  "python": "3.11.16 (main, Sep  2 2026, 23:39:52) [GCC 15.3.0]",
+  "qiskit": "1.2.4",
+  "aer": "0.14.0.1",
+  "sklearn": "1.9.0",
+  "cpu": "\t: Intel(R) Core(TM) i7-14700",
+  "hashes": {
+    "/home/LeoNguyen/quantum/ICC_2027_noise/revision_v13_timing/run.py": "98de8192748d2c76b404daed220463cda8a1b7f152c7c346a0b151d421a0d598",
+    "revision_v13_timing/PROTOCOL.md": "7765509c5b59c5cce015f68e34efa07780ec31f56eeaf7d661ffbedb2a5e76fc",
+    "results_noise_aware_v11/ToN-IoT/data.npz": "762d2bccb2fbd0a84c7f17bb26afc6f029440622dfb233f116880cbe91e5c014",
+    "results_noise_aware_v11/RT-IoT/data.npz": "46d42cc4ad8744061491ef7c66b84b50a29c19df5f92ae6ecaaf12c6a8caee03",
+    "results_noise_aware_v11/NSL-KDD/data.npz": "252d78a4fb658a24a93ca872091360015434ed0efe68f4e5580ee4bba4337556",
+    "results_noise_aware_v11/UNSW-NB15/data.npz": "04ca7d25ad8aa95b884c73e4cb8a8dc749ee429ffff8779428f319e9ae0db135"
+  }
+}

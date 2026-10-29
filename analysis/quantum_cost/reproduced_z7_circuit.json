@@ -1,0 +1,35 @@
+[
+  {
+    "device": "nairobi",
+    "qubits": 7,
+    "cx": 0,
+    "depth": 16,
+    "gate_only_us": 0.14222222222222222,
+    "gate_counts": {
+      "rz": 84,
+      "sx": 28
+    }
+  },
+  {
+    "device": "lagos",
+    "qubits": 7,
+    "cx": 0,
+    "depth": 16,
+    "gate_only_us": 0.14222222222222222,
+    "gate_counts": {
+      "rz": 84,
+      "sx": 28
+    }
+  },
+  {
+    "device": "perth",
+    "qubits": 7,
+    "cx": 0,
+    "depth": 16,
+    "gate_only_us": 0.14222222222222222,
+    "gate_counts": {
+      "rz": 84,
+      "sx": 28
+    }
+  }
+]

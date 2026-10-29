@@ -1,0 +1,130 @@
+[
+  {
+    "dataset": "ToN-IoT",
+    "seed": 11,
+    "encoder": "dense",
+    "gid": 16,
+    "ideal_gid": 17,
+    "validation_macro_f1": 92.01854393965857
+  },
+  {
+    "dataset": "ToN-IoT",
+    "seed": 23,
+    "encoder": "dense",
+    "gid": 16,
+    "ideal_gid": 17,
+    "validation_macro_f1": 92.38436791567464
+  },
+  {
+    "dataset": "ToN-IoT",
+    "seed": 37,
+    "encoder": "dense",
+    "gid": 16,
+    "ideal_gid": 17,
+    "validation_macro_f1": 92.04562500877007
+  },
+  {
+    "dataset": "ToN-IoT",
+    "seed": 53,
+    "encoder": "dense",
+    "gid": 22,
+    "ideal_gid": 23,
+    "validation_macro_f1": 91.6886852920971
+  },
+  {
+    "dataset": "RT-IoT",
+    "seed": 11,
+    "encoder": "dense",
+    "gid": 16,
+    "ideal_gid": 12,
+    "validation_macro_f1": 94.1655062299372
+  },
+  {
+    "dataset": "RT-IoT",
+    "seed": 23,
+    "encoder": "adaptive16",
+    "gid": 21,
+    "ideal_gid": 16,
+    "validation_macro_f1": 94.5229559058407
+  },
+  {
+    "dataset": "RT-IoT",
+    "seed": 37,
+    "encoder": "adaptive16",
+    "gid": 16,
+    "ideal_gid": 16,
+    "validation_macro_f1": 94.35037148718857
+  },
+  {
+    "dataset": "RT-IoT",
+    "seed": 53,
+    "encoder": "adaptive16",
+    "gid": 16,
+    "ideal_gid": 12,
+    "validation_macro_f1": 94.3076995220906
+  },
+  {
+    "dataset": "NSL-KDD",
+    "seed": 11,
+    "encoder": "adaptive16",
+    "gid": 17,
+    "ideal_gid": 16,
+    "validation_macro_f1": 90.36806175732471
+  },
+  {
+    "dataset": "NSL-KDD",
+    "seed": 23,
+    "encoder": "adaptive16",
+    "gid": 17,
+    "ideal_gid": 15,
+    "validation_macro_f1": 89.44024998574541
+  },
+  {
+    "dataset": "NSL-KDD",
+    "seed": 37,
+    "encoder": "adaptive16",
+    "gid": 23,
+    "ideal_gid": 17,
+    "validation_macro_f1": 89.3088574735091
+  },
+  {
+    "dataset": "NSL-KDD",
+    "seed": 53,
+    "encoder": "adaptive16",
+    "gid": 17,
+    "ideal_gid": 17,
+    "validation_macro_f1": 90.56342127550484
+  },
+  {
+    "dataset": "UNSW-NB15",
+    "seed": 11,
+    "encoder": "dense",
+    "gid": 23,
+    "ideal_gid": 20,
+    "validation_macro_f1": 81.2370181962845
+  },
+  {
+    "dataset": "UNSW-NB15",
+    "seed": 23,
+    "encoder": "dense",
+    "gid": 23,
+    "ideal_gid": 21,
+    "validation_macro_f1": 80.43698045203521
+  },
+  {
+    "dataset": "UNSW-NB15",
+    "seed": 37,
+    "encoder": "dense",
+    "gid": 16,
+    "ideal_gid": 12,
+    "validation_macro_f1": 81.95839392650596
+  },
+  {
+    "dataset": "UNSW-NB15",
+    "seed": 53,
+    "encoder": "dense",
+    "gid": 21,
+    "ideal_gid": 15,
+    "validation_macro_f1": 80.41764121692414
+  }
+]

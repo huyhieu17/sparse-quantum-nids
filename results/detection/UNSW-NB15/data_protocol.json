@@ -1,0 +1,69 @@
+{
+  "dataset": "UNSW-NB15",
+  "source_sha256": "bec7dd5ec88dc2a0ccc7a07879d338395ed7421750f675fd0339e07dfe0648fa",
+  "conflicting_groups_removed": 229,
+  "sizes": [
+    2000,
+    500,
+    1000
+  ],
+  "class_counts": [
+    {
+      "1": 1037,
+      "0": 963
+    },
+    {
+      "1": 261,
+      "0": 239
+    },
+    {
+      "1": 516,
+      "0": 484
+    }
+  ],
+  "features": [
+    "dur",
+    "spkts",
+    "dpkts",
+    "sbytes",
+    "dbytes",
+    "rate",
+    "sttl",
+    "dttl",
+    "sload",
+    "dload",
+    "sloss",
+    "dloss",
+    "sinpkt",
+    "dinpkt",
+    "sjit",
+    "djit",
+    "swin",
+    "stcpb",
+    "dtcpb",
+    "dwin",
+    "tcprtt",
+    "synack",
+    "ackdat",
+    "smean",
+    "dmean",
+    "trans_depth",
+    "response_body_len",
+    "ct_srv_src",
+    "ct_state_ttl",
+    "ct_dst_ltm",
+    "ct_src_dport_ltm",
+    "ct_dst_sport_ltm",
+    "ct_dst_src_ltm",
+    "is_ftp_login",
+    "ct_ftp_cmd",
+    "ct_flw_http_mthd",
+    "ct_src_ltm",
+    "ct_srv_dst",
+    "is_sm_ips_ports",
+    "proto",
+    "service",
+    "state"
+  ],
+  "scope": "v11 holdout, historical non-exposure not guaranteed"
+}

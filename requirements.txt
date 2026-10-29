@@ -1,0 +1,11 @@
+numpy==1.26.4
+scipy==1.13.1
+pandas==2.2.3
+scikit-learn==1.9.0
+qiskit==1.2.4
+qiskit-aer==0.14.0.1
+joblib==1.6.0
+matplotlib==3.9.4
+pylatexenc==2.11
+psutil==7.2.2
+threadpoolctl==3.6.0

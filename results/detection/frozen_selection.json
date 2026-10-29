@@ -1,0 +1,130 @@
+[
+  {
+    "dataset": "ToN-IoT",
+    "seed": 11,
+    "config": "adaptive16",
+    "gid": 21,
+    "ideal_gid": 11,
+    "validation_macro_f1": 98.55895476519167
+  },
+  {
+    "dataset": "ToN-IoT",
+    "seed": 23,
+    "config": "dense",
+    "gid": 11,
+    "ideal_gid": 11,
+    "validation_macro_f1": 98.36479657107459
+  },
+  {
+    "dataset": "ToN-IoT",
+    "seed": 37,
+    "config": "adaptive16",
+    "gid": 16,
+    "ideal_gid": 11,
+    "validation_macro_f1": 98.26544946846734
+  },
+  {
+    "dataset": "ToN-IoT",
+    "seed": 53,
+    "config": "adaptive16",
+    "gid": 21,
+    "ideal_gid": 11,
+    "validation_macro_f1": 98.46282107923388
+  },
+  {
+    "dataset": "RT-IoT",
+    "seed": 11,
+    "config": "adaptive16",
+    "gid": 22,
+    "ideal_gid": 17,
+    "validation_macro_f1": 98.14804800097276
+  },
+  {
+    "dataset": "RT-IoT",
+    "seed": 23,
+    "config": "adaptive8",
+    "gid": 17,
+    "ideal_gid": 22,
+    "validation_macro_f1": 97.57083665253838
+  },
+  {
+    "dataset": "RT-IoT",
+    "seed": 37,
+    "config": "adaptive8",
+    "gid": 22,
+    "ideal_gid": 11,
+    "validation_macro_f1": 97.58760374742616
+  },
+  {
+    "dataset": "RT-IoT",
+    "seed": 53,
+    "config": "adaptive8",
+    "gid": 22,
+    "ideal_gid": 16,
+    "validation_macro_f1": 97.36018588806358
+  },
+  {
+    "dataset": "NSL-KDD",
+    "seed": 11,
+    "config": "dense",
+    "gid": 11,
+    "ideal_gid": 21,
+    "validation_macro_f1": 97.39271618954938
+  },
+  {
+    "dataset": "NSL-KDD",
+    "seed": 23,
+    "config": "dense",
+    "gid": 11,
+    "ideal_gid": 22,
+    "validation_macro_f1": 97.38994105799124
+  },
+  {
+    "dataset": "NSL-KDD",
+    "seed": 37,
+    "config": "dense",
+    "gid": 16,
+    "ideal_gid": 22,
+    "validation_macro_f1": 97.39121895278976
+  },
+  {
+    "dataset": "NSL-KDD",
+    "seed": 53,
+    "config": "dense",
+    "gid": 17,
+    "ideal_gid": 22,
+    "validation_macro_f1": 97.5215120068636
+  },
+  {
+    "dataset": "UNSW-NB15",
+    "seed": 11,
+    "config": "dense",
+    "gid": 11,
+    "ideal_gid": 16,
+    "validation_macro_f1": 89.73115596900577
+  },
+  {
+    "dataset": "UNSW-NB15",
+    "seed": 23,
+    "config": "angle5x2",
+    "gid": 17,
+    "ideal_gid": 16,
+    "validation_macro_f1": 89.88356298001906
+  },
+  {
+    "dataset": "UNSW-NB15",
+    "seed": 37,
+    "config": "angle5x2",
+    "gid": 10,
+    "ideal_gid": 16,
+    "validation_macro_f1": 89.26514820129235
+  },
+  {
+    "dataset": "UNSW-NB15",
+    "seed": 53,
+    "config": "angle5x2",
+    "gid": 11,
+    "ideal_gid": 16,
+    "validation_macro_f1": 89.45579256397934
+  }
+]

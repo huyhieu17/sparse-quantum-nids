@@ -1,0 +1,68 @@
+{
+  "dataset": "NSL-KDD",
+  "source_sha256": "1b86d2f957b33082081bba410fe129b475efebcc13c9014c3f447c8271aadf95",
+  "conflicting_groups_removed": 7,
+  "sizes": [
+    2000,
+    500,
+    1000
+  ],
+  "class_counts": [
+    {
+      "0": 1069,
+      "1": 931
+    },
+    {
+      "0": 267,
+      "1": 233
+    },
+    {
+      "0": 535,
+      "1": 465
+    }
+  ],
+  "features": [
+    "feature_00",
+    "feature_04",
+    "feature_05",
+    "feature_06",
+    "feature_07",
+    "feature_08",
+    "feature_09",
+    "feature_10",
+    "feature_11",
+    "feature_12",
+    "feature_13",
+    "feature_14",
+    "feature_15",
+    "feature_16",
+    "feature_17",
+    "feature_18",
+    "feature_19",
+    "feature_20",
+    "feature_21",
+    "feature_22",
+    "feature_23",
+    "feature_24",
+    "feature_25",
+    "feature_26",
+    "feature_27",
+    "feature_28",
+    "feature_29",
+    "feature_30",
+    "feature_31",
+    "feature_32",
+    "feature_33",
+    "feature_34",
+    "feature_35",
+    "feature_36",
+    "feature_37",
+    "feature_38",
+    "feature_39",
+    "feature_40",
+    "protocol_type",
+    "service",
+    "flag"
+  ],
+  "scope": "v11 holdout, historical non-exposure not guaranteed"
+}

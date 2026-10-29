@@ -1,0 +1,98 @@
+[
+  {
+    "dataset": "ToN-IoT",
+    "seed": 11,
+    "scale": 3.141592653589793,
+    "ideal_scale": 1.0
+  },
+  {
+    "dataset": "ToN-IoT",
+    "seed": 23,
+    "scale": 3.141592653589793,
+    "ideal_scale": 3.141592653589793
+  },
+  {
+    "dataset": "ToN-IoT",
+    "seed": 37,
+    "scale": 3.141592653589793,
+    "ideal_scale": 3.141592653589793
+  },
+  {
+    "dataset": "ToN-IoT",
+    "seed": 53,
+    "scale": 3.141592653589793,
+    "ideal_scale": 3.141592653589793
+  },
+  {
+    "dataset": "RT-IoT",
+    "seed": 11,
+    "scale": 3.141592653589793,
+    "ideal_scale": 3.141592653589793
+  },
+  {
+    "dataset": "RT-IoT",
+    "seed": 23,
+    "scale": 3.141592653589793,
+    "ideal_scale": 3.141592653589793
+  },
+  {
+    "dataset": "RT-IoT",
+    "seed": 37,
+    "scale": 3.141592653589793,
+    "ideal_scale": 3.141592653589793
+  },
+  {
+    "dataset": "RT-IoT",
+    "seed": 53,
+    "scale": 3.141592653589793,
+    "ideal_scale": 3.141592653589793
+  },
+  {
+    "dataset": "NSL-KDD",
+    "seed": 11,
+    "scale": 1.0,
+    "ideal_scale": 1.0
+  },
+  {
+    "dataset": "NSL-KDD",
+    "seed": 23,
+    "scale": 1.0,
+    "ideal_scale": 1.0
+  },
+  {
+    "dataset": "NSL-KDD",
+    "seed": 37,
+    "scale": 1.0,
+    "ideal_scale": 3.141592653589793
+  },
+  {
+    "dataset": "NSL-KDD",
+    "seed": 53,
+    "scale": 1.0,
+    "ideal_scale": 1.0
+  },
+  {
+    "dataset": "UNSW-NB15",
+    "seed": 11,
+    "scale": 3.141592653589793,
+    "ideal_scale": 3.141592653589793
+  },
+  {
+    "dataset": "UNSW-NB15",
+    "seed": 23,
+    "scale": 3.141592653589793,
+    "ideal_scale": 3.141592653589793
+  },
+  {
+    "dataset": "UNSW-NB15",
+    "seed": 37,
+    "scale": 3.141592653589793,
+    "ideal_scale": 3.141592653589793
+  },
+  {
+    "dataset": "UNSW-NB15",
+    "seed": 53,
+    "scale": 3.141592653589793,
+    "ideal_scale": 1.0
+  }
+]

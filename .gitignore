@@ -1,0 +1,30 @@
+# Python / local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.pytest_cache/
+.ipynb_checkpoints/
+# Raw data (manifest is versioned)
+/dataset/*
+!/dataset/INPUT_MANIFEST.json
+# Recomputed arrays, models and simulation caches
+*.npz
+*.npy
+*.joblib
+*.pkl
+/results/detection/*/
+!/results/detection/*/
+/results/detection/*/*
+!/results/detection/*/data_protocol.json
+/results/timing/*_nairobi_*.json
+/results/timing/*_lagos_*.json
+/results/timing/*_perth_*.json
+# Generated/local files
+*.log
+*.tmp
+*.zip
+.DS_Store

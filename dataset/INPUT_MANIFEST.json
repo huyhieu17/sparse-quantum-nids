@@ -1,0 +1,18 @@
+{
+  "dataset/nsl_kdd/KDDTrain+.txt": {
+    "sha256": "1b86d2f957b33082081bba410fe129b475efebcc13c9014c3f447c8271aadf95",
+    "bytes": 19109424
+  },
+  "dataset/unsw/UNSW_NB15_training-set.csv": {
+    "sha256": "bec7dd5ec88dc2a0ccc7a07879d338395ed7421750f675fd0339e07dfe0648fa",
+    "bytes": 32293018
+  },
+  "dataset/rt_iot/RT_IOT2022.csv": {
+    "sha256": "4bddd1dab531554dd7cf68f5940046a209a92a8d18d6b66f742636aee2cb16a5",
+    "bytes": 54781796
+  },
+  "dataset/ton_iot/train_test_network.csv": {
+    "sha256": "26ddc513552de36de6428b2e578efaed2b57504c716dfba847cc0109a64e1974",
+    "bytes": 29902775
+  }
+}

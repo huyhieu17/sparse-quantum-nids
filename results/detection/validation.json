@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "metrics": 1744,
+  "predictions_verified": 1744000,
+  "models_hashed": 737,
+  "datasets": [
+    "ToN-IoT",
+    "RT-IoT",
+    "NSL-KDD",
+    "UNSW-NB15"
+  ],
+  "model_seeds": [
+    11,
+    23,
+    37,
+    53
+  ],
+  "test_rows_per_dataset": 1000,
+  "scope": "fixed split; no historical non-exposure claim"
+}
