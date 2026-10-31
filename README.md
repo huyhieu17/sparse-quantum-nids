@@ -97,12 +97,6 @@ python benchmarks/report.py
 
 The main runner uses up to 20 simulation workers and 12 training workers. Adjust worker counts in the runner for smaller machines. Run timing sequentially without competing workloads. Full model/prediction validation requires the regenerated artifacts, and may take substantially longer than the unit tests. The scripts support resuming interrupted runs through their existing artifact checks.
 
-## Provenance and organization
-
-Folder names describe functionality rather than development versions. Imports, subprocess calls and executable paths have been updated accordingly. Historical CSV and JSON records retain their original identifiers, paths and hashes for traceability; those paths refer to the original run and are not portable configuration settings. Renaming does not change the recorded metrics. No new accuracy or timing experiment was run during this reorganization.
-
-The baseline module contains only the unchanged Pegasos helper used by the experiments and benchmark. Cost analysis excludes obsolete historical experiments. Unused experimental branches, manuscript sources and large generated artifacts are not part of this repository.
-
 ## GitHub use
 
 `.gitignore` excludes local datasets, environments, model files, arrays and simulation caches. Review the staged files before committing. Raw dataset copies have been removed from this repository. The lightweight repository ZIP excludes raw datasets as well. No remote repository has been created or pushed automatically.
